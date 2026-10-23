@@ -1,4 +1,5 @@
-#<!--
+#
+
 Saurabh Kumar, PhD
 Postdoctoral Researcher · Flaum Eye Institute, University of Rochester Medical Center
 Retinal lipid metabolism · AMD & iPSC-RPE disease modeling · Retinopathy of prematurity · Reproducible analysis in R for biomedical research
