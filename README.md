@@ -65,18 +65,18 @@ More Coming Soon !
 
 🏆 Selected honors
 
-2026 INTENT Travel Award, Office of Postdoctoral Affairs, University of Rochester 
-2025 Young Investigator Award (Best Oral Talk), IERG-ARVO, Sankara Nethralaya, Chennai, India 
-2025 ITG Award, Indian Council of Medical Research, EMBO-FEBS Workshop, Belgrade, Serbia 
-2025 Indian Eye Research Group (IERG)-ARVO Travel Award, Chennai, India 
-2024 Young Scientist Award, Indian Society of Human Genetics (ISHG), Ahmedabad, India 
-2024 Prof. Ravindranath Krothapalli Research Excellence Award, Hyderabad Eye Research Foundation (HERF), India 
-2023 EMBO Conference Travel Award, EMBO, Sant Feliu de Guíxols, Spain 
-2023 International Travel Scheme (ITS) Award, Department of Science and Technology (DST-ANRF),India 
-2022 iROP Society Excellence Grant Award, 5th World ROP Congress, Dubai, UAE 
-2021 Junior Research Fellowship (ICMR-JRF), Indian Council of Medical Research, India 
-2020 Junior Research Fellowship (DBT-JRF), Department of Biotechnology, India 
-2019 CSIR-UGC Lectureship Award (All India Rank: 21), India 
+2026 INTENT Travel Award, Office of Postdoctoral Affairs, University of Rochester.
+2025 Young Investigator Award (Best Oral Talk), IERG-ARVO, Sankara Nethralaya, Chennai, India.
+2025 ITG Award, Indian Council of Medical Research, EMBO-FEBS Workshop, Belgrade, Serbia.
+2025 Indian Eye Research Group (IERG)-ARVO Travel Award, Chennai, India.
+2024 Young Scientist Award, Indian Society of Human Genetics (ISHG), Ahmedabad, India.
+2024 Prof. Ravindranath Krothapalli Research Excellence Award, Hyderabad Eye Research Foundation (HERF), India. 
+2023 EMBO Conference Travel Award, EMBO, Sant Feliu de Guíxols, Spain. 
+2023 International Travel Scheme (ITS) Award, Department of Science and Technology (DST-ANRF),India. 
+2022 iROP Society Excellence Grant Award, 5th World ROP Congress, Dubai, UAE. 
+2021 Junior Research Fellowship (ICMR-JRF), Indian Council of Medical Research, India. 
+2020 Junior Research Fellowship (DBT-JRF), Department of Biotechnology, India.
+2019 CSIR-UGC Lectureship Award (All India Rank: 21), India.
 
 🔗 Find me
 📫 Saurabh_Kumar@urmc.rochester.edu
