@@ -1,21 +1,14 @@
 #<!--
-  HOW TO USE
-  1. Create a NEW public repository named exactly:  eyesaurabh
-     (github.com/eyesaurabh/eyesaurabh — this is separate from eyesaurabh.github.io)
-  2. Paste this file as its README.md.
-  3. Fill the remaining <PLACEHOLDERS>, then delete this comment block.
--->
-
 Saurabh Kumar, PhD
 Postdoctoral Researcher · Flaum Eye Institute, University of Rochester Medical Center
-Retinal lipid metabolism · AMD & iPSC-RPE disease modeling · Retinopathy of prematurity · Reproducible analysis in R
+Retinal lipid metabolism · AMD & iPSC-RPE disease modeling · Retinopathy of prematurity · Reproducible analysis in R for biomedical research
 
-I study how lipid metabolism and lysosomal function go wrong in retinal disease. My PhD (L V Prasad Eye Institute) showed that altered lipid metabolism under oxidative stress drives retinopathy of prematurity in preterm infants; as a postdoc I use patient-derived iPSC-RPE models to study lipid dysregulation in age-related macular degeneration. This GitHub holds the R code behind my publications, so the analyses can be checked and reused.
+I study how lipid metabolism and lysosomal function go wrong in retinal disease. My PhD (L V Prasad Eye Institute) showed that altered lipid metabolism under oxidative stress drives retinopathy of prematurity in preterm infants; as a postdoc I use patient-derived iPSC-RPE models to study lipid dysregulation in age-related macular degeneration and Batten's disease. This GitHub holds the R code behind my publications, so the analyses can be checked and reused.
 
 🌐 Website: eyesaurabh.github.io
 
 🔬 Research focus
-AMD disease modeling — iPSC-derived RPE, lipid and lysosomal dysregulation
+AMD disease modeling — iPSC-derived RPE, Rare diseases, lipid and lysosomal dysregulation
 
 Lysosomal Storage Disorder - Studying lipid and protein trafficking in Batten's Disease
 
